@@ -1,3 +1,33 @@
+﻿# Paper Reader - 学术论文精读与提炼技能
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Hongyuan-Lu/paper-reader.svg?style=social)](https://github.com/Hongyuan-Lu/paper-reader)
+
+> 一个世界顶级的学术研究助手，自动完成PDF论文解析、图表提取、期刊等级检索与结构化研读笔记生成。
+
+## 快速开始
+
+### 安装
+
+1. 克隆仓库
+`ash
+git clone https://github.com/Hongyuan-Lu/paper-reader.git
+cd paper-reader
+`
+
+2. 安装依赖
+`ash
+pip install pypdf pdfplumber pypdfium2 matplotlib Pillow
+`
+
+3. 使用示例
+`ash
+# 基本使用
+python scripts/extract_pdf.py your_paper.pdf
+`
+
+### 作为 Codex 技能使用
+将 paper-reader 文件夹复制到您的 Codex 技能目录中。
 # 📚 Paper Reader - 学术论文精读与提炼技能
 
 > 一个世界顶级的学术研究助手，自动完成PDF论文解析、图表提取、期刊评级与结构化研读笔记生成。
@@ -177,3 +207,4 @@ paper-reader/
 ## 📜 License
 
 本项目遵循原创者版权声明，详见具体论文的版权协议。
+
