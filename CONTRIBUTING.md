@@ -6,7 +6,7 @@
 
 ### 联系方式
 如有任何问题或建议，请通过以下方式联系：
-- **邮箱**: hongyuanlu9@gamil.com
+- **邮箱**: hongyuanlu9@gmail.com
 - **GitHub Issues**: 项目 Issues 页面
 
 
@@ -39,4 +39,5 @@
 
 ## 许可证
 通过贡献，您同意您的贡献将在 MIT 许可证下发布。
+
 

@@ -208,7 +208,7 @@ paper-reader/
 
 如有任何问题、建议或合作意向，请通过以下方式联系：
 
-- **邮箱**: hongyuanlu9@gamil.com
+- **邮箱**: hongyuanlu9@gmail.com
 - **GitHub Issues**: 项目 Issues 页面
 
 欢迎提交 Issue 或 Pull Request！
@@ -216,5 +216,6 @@ paper-reader/
 ## 📜 License
 
 本项目遵循原创者版权声明，详见具体论文的版权协议。
+
 
 
