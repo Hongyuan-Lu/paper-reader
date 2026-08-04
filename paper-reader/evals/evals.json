@@ -1,0 +1,23 @@
+{
+  "skill_name": "paper-reading",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我精读这篇论文：paper.pdf，阅读深度用标准版。期刊等级未知，需要自行搜索。",
+      "expected_output": "生成两份Markdown文档（Abridged Version.md 和 Deep Summary.md）、radar_score.png 雷达图、extracted_figures/ 文件夹，包含完整的五维评分和分析",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我需要深度分析这篇CVPR论文，请使用深度精读模式。期刊是CVPR 2023，不需要搜索。",
+      "expected_output": "生成两份Markdown文档，包含深度方法论拆解、公式详解、网络层级分析、超参数详情",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "快速筛选一下这篇论文的主要贡献，用简略版就行。",
+      "expected_output": "生成简略版Markdown，侧重核心结论和高层次架构，不包含过于详细的公式推导",
+      "files": []
+    }
+  ]
+}
