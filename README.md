@@ -10,21 +10,21 @@
 ### 安装
 
 1. 克隆仓库
-`ash
+```
 git clone https://github.com/Hongyuan-Lu/paper-reader.git
 cd paper-reader
-`
+```
 
 2. 安装依赖
-`ash
+```
 pip install pypdf pdfplumber pypdfium2 matplotlib Pillow
-`
+```
 
 3. 使用示例
-`ash
+```
 # 基本使用
 python scripts/extract_pdf.py your_paper.pdf
-`
+```
 
 ### 作为 Codex 技能使用
 将 paper-reader 文件夹复制到您的 Codex 技能目录中。
